@@ -1,0 +1,146 @@
+{
+  "3": [
+    {
+      "filename": "3-960.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 65392
+    },
+    {
+      "filename": "3-1920.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 148120
+    }
+  ],
+  "4": [
+    {
+      "filename": "4-960.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 106802
+    },
+    {
+      "filename": "4-1920.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 255090
+    }
+  ],
+  "7": [
+    {
+      "filename": "7-960.webp",
+      "width": 960,
+      "height": 312,
+      "bytes": 65094
+    },
+    {
+      "filename": "7-1920.webp",
+      "width": 1672,
+      "height": 544,
+      "bytes": 157088
+    }
+  ],
+  "9": [
+    {
+      "filename": "9-960.webp",
+      "width": 960,
+      "height": 544,
+      "bytes": 105490
+    },
+    {
+      "filename": "9-1920.webp",
+      "width": 1665,
+      "height": 944,
+      "bytes": 241384
+    }
+  ],
+  "tree": [
+    {
+      "filename": "tree-960.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 160800
+    },
+    {
+      "filename": "tree-1920.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 233740
+    }
+  ],
+  "street": [
+    {
+      "filename": "street-960.webp",
+      "width": 960,
+      "height": 544,
+      "bytes": 123214
+    },
+    {
+      "filename": "street-1920.webp",
+      "width": 1920,
+      "height": 1088,
+      "bytes": 350250
+    }
+  ],
+  "foto1": [
+    {
+      "filename": "foto1-320.webp",
+      "width": 320,
+      "height": 427,
+      "bytes": 34966
+    },
+    {
+      "filename": "foto1-640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 127874
+    },
+    {
+      "filename": "foto1-960.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 245600
+    }
+  ],
+  "foto2": [
+    {
+      "filename": "foto2-320.webp",
+      "width": 320,
+      "height": 569,
+      "bytes": 31522
+    },
+    {
+      "filename": "foto2-640.webp",
+      "width": 640,
+      "height": 1138,
+      "bytes": 121540
+    },
+    {
+      "filename": "foto2-960.webp",
+      "width": 940,
+      "height": 1672,
+      "bytes": 234040
+    }
+  ],
+  "foto3": [
+    {
+      "filename": "foto3-320.webp",
+      "width": 320,
+      "height": 426,
+      "bytes": 33022
+    },
+    {
+      "filename": "foto3-640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 132354
+    },
+    {
+      "filename": "foto3-960.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 302752
+    }
+  ]
+}
